@@ -36,6 +36,7 @@ listing:  #an example of listing external links
     - /people/saulo_magnani.yml
     - /people/nicolas_perthuisot.yml
     # - /people/maxence_rageade.yml
+    - /people//jessica_reis.yml
     # - /people/jean_baptiste_robin.yml
     - /people/giacomo_sellan.yml
     - /people/clement_stahl.yml
