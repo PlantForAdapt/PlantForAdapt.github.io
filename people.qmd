@@ -87,6 +87,9 @@ format:
 
 ## Steering committee {#committee}
 
+The project steering committee brings together project collaborators and national-level institutional stakeholders. 
+It meets annually to monitor progress, discuss advances, and ensure alignment between research outputs and policy or operational priorities.
+
 * Caroline Bedeau - [**ONF-Guyane RDI**](https://www.onf.fr/onf/%2B/73::onf-en-guyane.html)
 
 * Isabelle Bonjour - [**Centre Technique des Bois et Forêts de Guyane**](https://ctbf-guyane.fr/)
