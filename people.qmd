@@ -90,17 +90,19 @@ format:
 The project steering committee brings together project collaborators and national-level institutional stakeholders. 
 It meets annually to monitor progress, discuss advances, and ensure alignment between research outputs and policy or operational priorities.
 
-* Caroline Bedeau - [**ONF-Guyane RDI**](https://www.onf.fr/onf/%2B/73::onf-en-guyane.html)
+* **Caroline Bedeau** - [ONF-Guyane RDI](https://www.onf.fr/onf/%2B/73::onf-en-guyane.html)
 
-* Isabelle Bonjour - [**Centre Technique des Bois et Forêts de Guyane**](https://ctbf-guyane.fr/)
+* **Isabelle Bonjour** - [Centre Technique des Bois et Forêts de Guyane](https://ctbf-guyane.fr/)
 
-* Nicolas Perthuisot - [**ONF international**](https://www.onfinternational.org/en)
+* **Marciel José Ferreira** - Forest and plant physiology researcher [UFAM](https://florestas.ufam.edu.br/florestal/) 
 
-* Driss Ezzine-de-Blas - Socioeconomist [**CIRAD**](https://ur-forets-societes.cirad.fr/)
+* **Nicolas Perthuisot** - [ONF international](https://www.onfinternational.org/en)
 
-* *TBD* - [**Programa de Pesquisa e Desenvolvimento da Silvicultura de Espécies Nativas**](https://coalizaobr.com.br/nativas/)
+* **Driss Ezzine-de-Blas** - Researcher in ocioeconomist [CIRAD](https://ur-forets-societes.cirad.fr/)
 
-* *TBD* - [**Serviço Florestal Brasileiro**](https://www.gov.br/florestal/pt-br)
+* *TBD* - [Programa de Pesquisa e Desenvolvimento da Silvicultura de Espécies Nativas](https://coalizaobr.com.br/nativas/)
+
+* *TBD* - [Serviço Florestal Brasileiro](https://www.gov.br/florestal/pt-br)
 
 * PlantForAdapt PI, co-PIs and WP leaders
 
