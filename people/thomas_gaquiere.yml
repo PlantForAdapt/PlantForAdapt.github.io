@@ -1,0 +1,6 @@
+    - path: "#"
+      image: "/files/profiles/avatar.png"
+      title: "Thomas Gaquiere"
+      author: "ONF"
+      subtitle: ""
+      categories: [ONF] 
